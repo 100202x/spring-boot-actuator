@@ -55,6 +55,16 @@
 			<artifactId>spring-boot-starter-actuator</artifactId>
 			<version>3.3.3</version>
 		</dependency>
+		<dependency>
+			<groupId>com.mylearning.springboot.demo</groupId>
+			<artifactId>myfirstapp</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-security</artifactId>
+			<version>3.2.6</version>
+		</dependency>
 	</dependencies>
 
 	<build>
